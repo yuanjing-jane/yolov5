@@ -254,3 +254,9 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+datasets/fish/Annotations/
+datasets/fish/Images/
+datasets/fish/Labels/
+datasets/fish/split/labels/train.cache
+datasets/fish/split/labels/test.cache
